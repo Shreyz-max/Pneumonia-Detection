@@ -19,7 +19,7 @@ Pneumonia is an inflammatory condition of the lung affecting primarily the small
 Pneumonia is usually caused by infection with viruses or bacteria and less commonly by other microorganisms, certain medications or conditions such as autoimmune diseases. Risk factors include cystic fibrosis, chronic obstructive pulmonary disease (COPD), sickle cell disease, asthma, diabetes, heart failure, a history of smoking, a poor ability to cough (such as following a stroke), and a weak immune system. Diagnosis is often based on symptoms and physical examination. Chest X-rays, blood tests, and culture of the sputum may help confirm the diagnosis. The disease may be classified by where it was acquired, such as community- or hospital-acquired or healthcare-associated pneumonia.
 
 
-**Deployed Web App: [Chest XRay Web Application](https://share.streamlit.io/heytanay/chest_xray_webapp/sharing/app.py)**
+**Deployed Web App: [Chest XRay Web Application](https://share.streamlit.io/heytanay/chest_xray_webapp/main/app.py)**
 
 ## Repository
 This repository contains all the scripts needed to process chest xray data and train a model on it.
