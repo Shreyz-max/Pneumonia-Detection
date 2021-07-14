@@ -18,7 +18,6 @@ Pneumonia is an inflammatory condition of the lung affecting primarily the small
 
 Pneumonia is usually caused by infection with viruses or bacteria and less commonly by other microorganisms, certain medications or conditions such as autoimmune diseases. Risk factors include cystic fibrosis, chronic obstructive pulmonary disease (COPD), sickle cell disease, asthma, diabetes, heart failure, a history of smoking, a poor ability to cough (such as following a stroke), and a weak immune system. Diagnosis is often based on symptoms and physical examination. Chest X-rays, blood tests, and culture of the sputum may help confirm the diagnosis. The disease may be classified by where it was acquired, such as community- or hospital-acquired or healthcare-associated pneumonia.
 
-**[This](https://www.kaggle.com/heyytanay/xray-image-eda-classification-keras) is my original Kaggle Notebook that I made for this task.**
 
 **Deployed Web App: [Chest XRay Web Application](https://share.streamlit.io/heytanay/chest_xray_webapp/sharing/app.py)**
 
@@ -33,15 +32,14 @@ This repository contains all the scripts needed to process chest xray data and t
 
 In order to run the scripts, you need to have the following packages installed on your machine:
 - Numpy
-- Tensorflow
-- Keras
+- fastai
 
 You can install them by issuing this command in your terminal:
 
-```pip install numpy tensorflow keras```
+```pip install numpy fastai```
 
 If you are having problems in installing tensorflow, visit [this](https://www.youtube.com/watch?v=RgO8BBNGB8w).
-For any others problems (including installation), you can open an Issue and I will be happy to help!
+For any others problems (including installation), you can open an Issue!
 
 ## Data Directory
 The Data should be strictly in the following structure:
@@ -78,14 +76,11 @@ For example:
 
 `$ python train.py --dir data/ --epochs 25`
 
-## Results
-![Accuracy over Epochs](assets/acc_result.png)
-
-To view my in-depth EDA, visit the [original notebook](https://www.kaggle.com/heyytanay/xray-image-eda-classification-keras) on Kaggle.
+To view the in-depth EDA, visit the [original notebook](https://www.kaggle.com/heyytanay/xray-image-eda-classification-keras) on Kaggle.
 
 Please star this repo, if you found it helpful!
 
 ## [NEW] Web App
-I have deployed the model into a Streamlit-Powered Web Application. Currently, It only serves as an example but it can be extended to a full-fledged AI-powered medical application suite later.
+The model has been deployed into a Streamlit-Powered Web Application. Currently, It only serves as an example but it can be extended to a full-fledged AI-powered medical application suite later.
 
 Web App: [Chest XRay Web Application](https://chest-xray-app-tanay.herokuapp.com/)
