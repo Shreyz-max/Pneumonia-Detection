@@ -82,3 +82,8 @@ Please star this repo, if you found it helpful!
 ## [NEW] Web App
 The model has been deployed into a Streamlit-Powered Web Application. Currently, It only serves as an example but it can be extended to a full-fledged AI-powered medical application suite later.
 
+## Future work
+COVID-19 + Pulmonary Abnormalities
+Distinguishing between Spectrogram Images of Breathing Sounds
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shreyz-max/Pneumonia-Detection/future_work?filepath=%2Fvoila%2Frender%2Fpulmonary_abnormalities_app.ipynb)
+
