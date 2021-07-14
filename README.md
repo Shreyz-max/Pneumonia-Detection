@@ -76,11 +76,9 @@ For example:
 
 `$ python train.py --dir data/ --epochs 25`
 
-To view the in-depth EDA, visit the [original notebook](https://www.kaggle.com/heyytanay/xray-image-eda-classification-keras) on Kaggle.
 
 Please star this repo, if you found it helpful!
 
 ## [NEW] Web App
 The model has been deployed into a Streamlit-Powered Web Application. Currently, It only serves as an example but it can be extended to a full-fledged AI-powered medical application suite later.
 
-Web App: [Chest XRay Web Application](https://chest-xray-app-tanay.herokuapp.com/)
