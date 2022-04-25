@@ -1,6 +1,4 @@
 """
-Author: Tanay Mehta
-Github: @heytanay
 ---------------------
 
 This script is the entry point and will be used when training the model
