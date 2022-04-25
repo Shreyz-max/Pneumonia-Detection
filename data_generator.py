@@ -1,6 +1,4 @@
 """
-Author: Tanay Mehta
-Github: @heytanay
 ---------------------
 
 This script contains Data Generators for the Image CNN model 
