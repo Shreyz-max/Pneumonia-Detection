@@ -1,6 +1,4 @@
 """
-Author: Tanay Mehta
-Github: @heytanay
 ---------------------
 
 This is where the model lives
