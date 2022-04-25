@@ -1,6 +1,4 @@
 """
-Author: Tanay Mehta
-Github: @heytanay
 ---------------------
 A few helper function(s)
 """
